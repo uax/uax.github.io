@@ -1,0 +1,11 @@
+{
+  "version": "v0.1.1",
+  "notes": "Alpha",
+  "pub_date": "2024-02-29T12:14:11Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmZJdENpMDN1UkxPdERjVGJYMlRFeERBeCt6ZHBnL1VRWjl1VU9ISXJLemNJYkR2WVJndGZ2RzNXRjhEajNLUlI5b3FPMWE0cHlSeXMvRVg4YzNmYkJvV3UyY3NNS1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA5MTM2ODA2CWZpbGU6566h55CG57O757ufLmFwcC50YXIuZ3oKNlJQWjdhSkFvWDVrd2txQlZhN3dSVERqYkY3UUFpb0lKUXR4ZW1KaDRyOFJVWXphUWE5djVWTjE5ZlhMTk0yM1Z4aG1XZUw0SkJQUFppK1pJVE9zQUE9PQo=",
+      "url": "https://uax.github.io/releases/download/v0.1.1/manage-x86_64.app.tar.gz"
+    }
+  }
+}
